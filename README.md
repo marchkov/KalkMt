@@ -1,2 +1,2 @@
 # KalkMt
-Kalkulacka metru tisku pro tiskovy stroj Durst
+Kalkulačka metrů tisku pro tiskový stroj Durst
